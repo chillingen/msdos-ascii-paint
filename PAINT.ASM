@@ -9,7 +9,6 @@ section .data
 	; screen_const: equ (80*25)*2
 	welcome:        db "~DPP~ @ Welcome! Made by Chillingen",0
 	magic0:         db "///David is gay\\\",0
-	magic1:         db "///Maciek is a bitch\\\",0
 	svd_screen:             times (80*25)*2 db 0    ; allocate space for previous screen state              
 section .text
 	global _start
