@@ -12,7 +12,7 @@ Please feel free to contribute to this repository! Anything helps, and it helps 
 This 8086 assembly was written to be used with the NASM compiler, so make sure to download and install that.
 You will need to compile the source code:
 
-<sup>nasm.exe -f bin -o paint paint.asm</sup>
+<sup>nasm.exe -f bin -o paint.com paint.asm</sup>
 
 Then, run the program by typing out its name in the terminal:
 
