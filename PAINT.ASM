@@ -8,7 +8,7 @@
 section .data
 	; screen_const: equ (80*25)*2
 	welcome:        db "~DPP~ @ Welcome! Made by Chillingen",0
-	magic0:         db "///David is gay\\\",0
+	magic0:         db "///David is gay\\\",0	; This ain't discrimination; This is an inside joke from around the time this was written.
 	svd_screen:             times (80*25)*2 db 0    ; allocate space for previous screen state              
 section .text
 	global _start
