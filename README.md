@@ -22,10 +22,11 @@ You are ready to go!
 
 ## Controlls
 
+<sub>
 W,A,S,D:  Directional cursor control.
 N,M:      Cycle colors (0x00 - 0xFF).
 X:        Exits program.
 Q:        Opens character selection screen; Select with ENTER.
 V:        Allows you to paste full string.
           NOTE: I never finished this feautere. Expect errors!
-          
+</sup>
